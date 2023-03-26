@@ -1,2 +1,0 @@
-# openCV_Basic
-OpenCV
